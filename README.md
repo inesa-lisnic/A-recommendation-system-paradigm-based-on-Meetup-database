@@ -1,4 +1,4 @@
-# a-new-paradigm-of-recommendation-system-based-on-meetup-database
+# A recommendation system paradigm based on Meetup database
 This project is the final project at London Flatiron School. 
 -- Project Status: On-Hold
 
