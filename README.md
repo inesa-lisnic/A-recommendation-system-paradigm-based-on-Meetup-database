@@ -1,4 +1,4 @@
-# A recommendation system paradigm based on Meetup database
+# Your story defines your interests. A recommendation system paradigm based on Meetup database
 This project is the final project at London Flatiron School. 
 -- Project Status: On-Hold
 
